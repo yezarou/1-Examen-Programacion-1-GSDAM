@@ -1,0 +1,6 @@
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\bin\Debug\Eje_3.exe.config
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\bin\Debug\Eje_3.exe
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\bin\Debug\Eje_3.pdb
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\obj\Debug\Eje_3.csprojResolveAssemblyReference.cache
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\obj\Debug\Eje_3.exe
+D:\Alumno1718\Escritorio\Rubén_Zúñiga\Eje_3\Eje_3\obj\Debug\Eje_3.pdb
